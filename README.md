@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning at Haldia Institute of Technology.
 - 💞️ I’m looking to collaborate on python programming.
 - 📫 How to reach me shubham.pcs2012@gmail.com
+- 🌀 LinkedIn links https://www.linkedin.com/in/shubham-kumar-0a8975221
 
 <!---
 Shubham-13663/Shubham-13663 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
